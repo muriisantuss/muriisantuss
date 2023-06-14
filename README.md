@@ -1,8 +1,5 @@
 ## Olá!<span style="color: #fff"> Eu sou o Murilo🔥 </span> 
-    
-    - estudando
-    - aprendendo
-    - aplicando
+
     
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santuuss_/)
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriii/)
@@ -23,4 +20,4 @@
 
 ### "O futuro é algo que você mesmo faz. <span style="color: #c5f015"> Você tem que acreditar nele. "</span> 
 
-![snake gif](https://github.com/devsantuss/devsantuss/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevSantuss/devsantuss/blob/output/github-contribution-grid-snake.svg)
