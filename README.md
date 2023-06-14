@@ -19,5 +19,3 @@
 </div><br/>
 
 ### "O futuro é algo que você mesmo faz. <span style="color: #c5f015"> Você tem que acreditar nele. "</span> 
-
-![snake gif](https://github.com/DevSantuss/devsantuss/blob/output/github-contribution-grid-snake.svg)
