@@ -1,10 +1,9 @@
+## 🎨 Sobre mim
 
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na Fatec.
-- 💼 Trabalhando em busca de experiências com projetos pessoais.
-- 🌱 Aprendendo mais sobre Angular e Java.
+- 🛠️ Trabalhando em busca de experiências com projetos pessoais.
+- 🧠 Aprendendo mais sobre Angular e Java.
 
 <div align="center"> 
     
@@ -20,7 +19,7 @@
 </div> 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  min-width="400px" max-width="400px" width="400px"align="right">
 
-### Minhas Skills
+### 🔥 Minhas Skills
 
 <p align="left"> 
     
