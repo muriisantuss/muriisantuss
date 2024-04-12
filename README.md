@@ -9,11 +9,11 @@
 <div align="center"> 
     
   <img 
-       min-width="400px" max-width="400px" width="400px"
+       min-width="350px" max-width="400px" width="350px"
       src="https://github-readme-stats.vercel.app/api?username=muriisantuss&theme=dark&show_icons=true&count_private=true&hide_border=true&title_color=cdd2ff&icon_color=cdd2ff&text_color=cdd2ff"
       alt="muriisantuss github stats" /> 
        <img
-       min-width="400px" max-width="400px" width="400px"
+       min-width="350px" max-width="400px" width="350px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=muriisantuss&theme=dark&hide_border=true&bg_color=0d1117e"
         alt="Github Stats"
       />
