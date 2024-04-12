@@ -12,15 +12,11 @@
       src="https://github-readme-stats.vercel.app/api?username=muriisantuss&theme=dark&show_icons=true&count_private=true&hide_border=true&title_color=cdd2ff&icon_color=cdd2ff&text_color=cdd2ff"
       alt="muriisantuss github stats" /> 
        <img
-        align="right"
         src="https://github-readme-streak-stats.herokuapp.com/?user=muriisantuss&theme=dark&hide_border=true&bg_color=0d1117e"
         alt="Github Stats"
       />
-  </br>
-
 </div> 
-<br>
-
+ </br> </br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  width="50%" align="right">
 
 ### Minhas Skills
